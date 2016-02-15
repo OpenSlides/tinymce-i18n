@@ -1,7 +1,7 @@
 {
   "name": "tinymce-i18n",
   "description": "Languages for TinyMCE 4",
-  "main": "langs/*.js",
+  "main": [],
   "license": "LGPL-2.1",
   "ignore": [],
   "homepage": "https://github.com/OpenSlides"
